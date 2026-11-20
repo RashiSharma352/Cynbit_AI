@@ -1,0 +1,16 @@
+Cynbit AI/ML Engineer Intern Assessment
+Applicant: Rashi Sharma
+
+Repository contents:
+- AI Opportunity Report: docs/AI_Opportunity_Report.md
+- Functional PoC: app/streamlit_app.py and app/engine.py
+- Technical Approach Report: docs/Technical_Approach_Report.md
+- Setup instructions: README.md
+
+Before submission:
+1. Extract the ZIP.
+2. Run the app locally and test at least three examples.
+3. Run pytest -q.
+4. Create a public GitHub repository and upload the project files.
+5. Paste the GitHub repository URL and setup notes into the Cynbit submission portal.
+6. Do not claim a live deployment unless you actually deploy and verify it.

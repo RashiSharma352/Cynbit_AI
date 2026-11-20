@@ -1,0 +1,61 @@
+inquiry,category,training_priority,data_source
+We need an AI chatbot to answer customer questions on our website,AI Automation,High,synthetic_example
+Can you build an AI agent to qualify incoming sales leads,AI Automation,High,synthetic_example
+We want to automate repetitive document processing with an LLM,AI Automation,Medium,synthetic_example
+Need a voice assistant for appointment booking,AI Automation,Medium,synthetic_example
+Looking for an AI workflow that routes customer requests,AI Automation,High,synthetic_example
+We need retrieval augmented generation over internal documents,AI Automation,Medium,synthetic_example
+Can you integrate an LLM assistant into our existing product,AI Automation,High,synthetic_example
+We want automatic email classification and response suggestions,AI Automation,Medium,synthetic_example
+Need an autonomous agent for customer onboarding,AI Automation,High,synthetic_example
+We are exploring AI automation for back office operations,AI Automation,Low,synthetic_example
+Please develop a responsive business website,Web & Mobile Development,Medium,synthetic_example
+We need a mobile application for our customers,Web & Mobile Development,Medium,synthetic_example
+Can you build an ecommerce web application,Web & Mobile Development,High,synthetic_example
+Our website needs a redesign and better user experience,Web & Mobile Development,Low,synthetic_example
+Need a portal with login dashboard and user roles,Web & Mobile Development,Medium,synthetic_example
+We want a React frontend and API integration,Web & Mobile Development,Medium,synthetic_example
+Build a booking application for our service business,Web & Mobile Development,High,synthetic_example
+Need a custom web application for our operations,Web & Mobile Development,Medium,synthetic_example
+Can you create an Android and iOS app,Web & Mobile Development,Medium,synthetic_example
+We need to modernize our existing web platform,Web & Mobile Development,Low,synthetic_example
+We need cloud deployment on AWS,Cloud & Infrastructure,Medium,synthetic_example
+Our application infrastructure needs scaling,Cloud & Infrastructure,High,synthetic_example
+Please set up Docker and Kubernetes deployment,Cloud & Infrastructure,Medium,synthetic_example
+We need CI CD pipeline automation,Cloud & Infrastructure,Medium,synthetic_example
+Our server is experiencing downtime and outages,Cloud & Infrastructure,High,synthetic_example
+Can you migrate our application to Azure,Cloud & Infrastructure,Medium,synthetic_example
+Need cloud security and infrastructure review,Cloud & Infrastructure,High,synthetic_example
+We want automated backups and monitoring,Cloud & Infrastructure,Low,synthetic_example
+Our backend needs a reliable hosting architecture,Cloud & Infrastructure,Medium,synthetic_example
+Help us optimize cloud costs,Cloud & Infrastructure,Low,synthetic_example
+We need CRM automation for sales follow ups,CRM & Marketing Automation,Medium,synthetic_example
+Please automate lead nurturing emails,CRM & Marketing Automation,Medium,synthetic_example
+We want to improve our Google search ranking,CRM & Marketing Automation,Low,synthetic_example
+Need technical SEO audit for our website,CRM & Marketing Automation,Low,synthetic_example
+Can you automate campaign reporting and lead tracking,CRM & Marketing Automation,Medium,synthetic_example
+We need a landing page funnel for paid campaigns,CRM & Marketing Automation,Medium,synthetic_example
+Our sales team needs automatic lead assignment,CRM & Marketing Automation,High,synthetic_example
+Help us improve conversion from website inquiries,CRM & Marketing Automation,Medium,synthetic_example
+We want to connect website forms with our CRM,CRM & Marketing Automation,Medium,synthetic_example
+Need performance marketing analytics,CRM & Marketing Automation,Low,synthetic_example
+I want to know about Cynbit Studio AI coding missions,Product & Platform Inquiry,Low,synthetic_example
+How does your AI code evaluation platform work,Product & Platform Inquiry,Medium,synthetic_example
+Tell me about the Revio AI Review Assistant,Product & Platform Inquiry,Low,synthetic_example
+I need information about the TenantEase platform,Product & Platform Inquiry,Low,synthetic_example
+Can your platform provide adaptive learning paths,Product & Platform Inquiry,Medium,synthetic_example
+We are interested in your SaaS product capabilities,Product & Platform Inquiry,Medium,synthetic_example
+How can our institution use your career intelligence tools,Product & Platform Inquiry,Medium,synthetic_example
+Please share a product demo and pricing details,Product & Platform Inquiry,High,synthetic_example
+I want to understand your software internship program,Product & Platform Inquiry,Low,synthetic_example
+Can you explain the features of your proprietary products,Product & Platform Inquiry,Low,synthetic_example
+I have a question about an existing project delivery,General Support,Medium,synthetic_example
+Please contact me regarding my previous inquiry,General Support,Medium,synthetic_example
+I need help with an issue in the application,General Support,High,synthetic_example
+Can someone from your team call me back,General Support,Medium,synthetic_example
+I want to discuss a possible business partnership,General Support,Low,synthetic_example
+There is a bug in the current release that blocks users,General Support,High,synthetic_example
+Please share the next steps after our discovery call,General Support,Medium,synthetic_example
+I need an update on my support request,General Support,Medium,synthetic_example
+We have an urgent production issue and need assistance,General Support,High,synthetic_example
+Who should I contact for general information,General Support,Low,synthetic_example
